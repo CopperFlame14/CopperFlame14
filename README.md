@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 
 ![CommitPulse](https://commitpulse.vercel.app/api/streak?user=copperflame14)
 ![CopperFlame14's Stats](https://github-readme-stats.vercel.app/api?username=CopperFlame14&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+![CopperFlame14's Streak](https://github-readme-streak-stats.herokuapp.com/?user=CopperFlame14&theme=tokyonight&hide_border=true)
+![CopperFlame14's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CopperFlame14&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
