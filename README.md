@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ![CommitPulse](https://commitpulse.vercel.app/api/streak?user=copperflame14)
+![CopperFlame14's Stats](https://github-readme-stats.vercel.app/api?username=CopperFlame14&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
