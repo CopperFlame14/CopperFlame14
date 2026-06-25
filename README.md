@@ -22,10 +22,6 @@ Connection Secure
 
 Welcome back, Krishni.
 
-Last Login
-
-02:13 AM IST 🌙
-
 ```
 
 ---
