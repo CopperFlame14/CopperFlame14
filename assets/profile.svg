@@ -97,136 +97,20 @@ stroke-width="2"/>
 </text>
 
 <!-- Avatar -->
-<!-- Avatar Frame -->
-
-<rect
-x="55"
-y="55"
-width="240"
-height="310"
-rx="10"
-fill="#0D1117"
-stroke="#A371F7"
-stroke-width="2"
-/>
-
-<!-- Background -->
-
 <defs>
-
-<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
-
-<stop offset="0%" stop-color="#111633"/>
-
-<stop offset="100%" stop-color="#25154D"/>
-
-</linearGradient>
-
+  <clipPath id="avatarClip">
+    <rect x="70" y="70" width="210" height="280" rx="8"/>
+  </clipPath>
 </defs>
 
-<rect
+<image
+href="./assets/avatar.png"
 x="70"
 y="70"
 width="210"
 height="280"
-fill="url(#sky)"
-rx="6"
-/>
-
-<!-- Moon -->
-
-<circle
-cx="240"
-cy="110"
-r="18"
-fill="#A371F7"
-opacity=".5"
-/>
-
-<!-- Hoodie -->
-
-<path
-d="
-M180 310
-L135 245
-Q145 175 180 150
-Q215 175 225 245
-L180 310
-Z"
-fill="#12151E"
-/>
-
-<!-- Head -->
-
-<circle
-cx="180"
-cy="150"
-r="28"
-fill="#0B0C10"
-/>
-
-<!-- Hood -->
-
-<path
-d="
-M145 155
-Q180 95
-215 155
-Q220 220
-180 245
-Q140 220
-145 155
-Z"
-fill="#171A25"
-/>
-
-<!-- Shoulder -->
-
-<path
-d="
-M105 325
-Q180 250
-255 325
-Z"
-fill="#171A25"
-/>
-
-<!-- Purple Flame Logo -->
-
-<path
-d="
-M180 265
-C168 250 168 230 182 215
-C188 228 201 234 201 252
-C201 268 191 280 180 288
-C170 281 159 270 159 254
-C159 241 166 232 173 224
-C172 238 177 246 180 250
-"
-fill="#8B5CF6"
-filter="url(#glow)"
-/>
-
-<!-- Glow -->
-
-<defs>
-
-<filter id="glow">
-
-<feGaussianBlur stdDeviation="4" result="coloredBlur"/>
-
-<feMerge>
-
-<feMergeNode in="coloredBlur"/>
-
-<feMergeNode in="SourceGraphic"/>
-
-</feMerge>
-
-</filter>
-
-</defs>
-
+clip-path="url(#avatarClip)"
+preserveAspectRatio="xMidYMid slice"/>
 <!-- Scan Line -->
 
 <rect
