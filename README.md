@@ -188,12 +188,6 @@ Machine Learning + Clustering + Data Analytics
 
 ---
 
-### 🌌 Cosmonova
-
-Space-themed social platform.
-
----
-
 ### 🌱 Open Source
 
 GSSoC Contributor
