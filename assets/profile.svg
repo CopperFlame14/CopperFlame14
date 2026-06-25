@@ -129,24 +129,6 @@ repeatCount="indefinite"/>
 
 </rect>
 
-<!-- Scan -->
-
-<rect
-x="82"
-y="110"
-width="196"
-height="2"
-fill="#58A6FF"
-opacity=".6">
-
-<animate
-attributeName="y"
-values="110;310;110"
-dur="4s"
-repeatCount="indefinite"/>
-
-</rect>
-
 <!-- Information -->
 
 <text x="340" y="90" class="label">NAME</text>
