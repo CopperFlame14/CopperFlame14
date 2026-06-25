@@ -1,70 +1,132 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,40:4B0082,100:58A6FF&text=KRISHNI&fontAlignY=38&fontColor=ffffff&animation=fadeIn&desc=AI%20%7C%20Open%20Source%20%7C%20Late%20Night%20Coder&descAlignY=58"/>
+<img width="100%" src="./assets/banner.png">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1200&color=58A6FF&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Krishni.;Computer+Science+Student+%40+VIT+Chennai.;AI+%26+Machine+Learning+Enthusiast.;Open+Source+Contributor.;Learning+something+new+every+day..."/>
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=25&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=850&lines=Booting+CopperFlame14...;Welcome+back%2C+Krishni.;AI+%7C+Machine+Learning.;Open+Source+Contributor.;Building+the+future+one+commit+at+a+time."/>
 
 </div>
 
 ---
 
-```console
-krishni@github:~$ neofetch
+# ```bash
 
-       .--.                  Name      : M. R. Krishni
-      |o_o |                 Education : B.Tech CSE @ VIT Chennai
-      |:_/ |                 Focus     : AI • Machine Learning • Data Science
-     //   \ \                OpenSrc   : GSSoC Contributor
-    (|     | )               Coding    : Java • Python • SQL
-   /'\_   _/`\               Learning  : DSA • System Design • Japanese 🇯🇵
-   \___)=(___/               Fun       : Astronomy 🌌
+$ ssh github.com/CopperFlame14
+
+Authenticating...
+
+██████████████████████
+
+Connection Secure
+
+Welcome back, Krishni.
+
+Last Login
+
+02:13 AM IST 🌙
+
 ```
 
 ---
-
-# <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="28"> About Me
-
-```yaml
-name: M. R. Krishni
-
-currently:
-  - Solving LeetCode
-  - Building AI & ML Projects
-  - Contributing to Open Source
-
-interests:
-  - Artificial Intelligence
-  - Machine Learning
-  - Data Science
-  - Software Engineering
-  - Astronomy
-  - Japanese Language
-
-goal:
-  - Build software that solves real-world problems.
-```
-
----
-
-# ⚡ Tech Stack
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,c,js,react,nodejs,mysql,git,github,vscode,linux&perline=6"/>
+<img src="./assets/terminal.gif" width="850">
 
 </p>
 
 ---
 
-# 📈 GitHub Analytics
+# 💻 Neofetch
+
+```console
+
+krishni@github
+
+-----------------------------
+
+OS:                 Arch Linux
+
+Host:               VIT Chennai
+
+Kernel:             AI & ML
+
+Shell:              zsh
+
+Editor:             VS Code
+
+Languages:          Java Python C JavaScript SQL
+
+Learning:           DSA System Design
+
+Open Source:        GSSoC
+
+Interests:          Astronomy Japanese Photography
+
+Status:             Coding...
+
+```
+
+---
+
+# 🌌 About
+
+```yaml
+
+Name: M. R. Krishni
+
+Education:
+
+B.Tech CSE
+
+VIT Chennai
+
+Focus:
+
+AI
+
+Machine Learning
+
+Data Science
+
+Software Engineering
+
+Current Goals:
+
+Contribute to Open Source
+
+Master Java
+
+500+ LeetCode Problems
+
+Build AI Projects
+
+```
+
+---
+
+# ⚡ Tech
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=CopperFlame14&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+<img src="https://skillicons.dev/icons?i=java,python,c,js,react,nodejs,mysql,git,github,linux,vscode&perline=6">
+
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=CopperFlame14&theme=tokyonight&show_icons=true&hide_border=true&bg_color=00000000"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CopperFlame14&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
 
 </p>
+
+---
 
 <p align="center">
 
@@ -74,7 +136,7 @@ goal:
 
 ---
 
-# 📊 Contribution Graph
+# 📈 Activity Graph
 
 <p align="center">
 
@@ -84,37 +146,61 @@ goal:
 
 ---
 
-# 🌙 Current Mission
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/CopperFlame14/CopperFlame14/output/github-contribution-grid-snake-dark.svg">
+
+</p>
+
+---
+
+# 📊 GitHub Metrics
+
+<p align="center">
+
+<img src="/github-metrics.svg">
+
+</p>
+
+---
+
+# 🚀 Current Mission
 
 ```text
-□ Master Java
-□ Solve 500+ LeetCode problems
-□ Build impactful AI/ML projects
-□ Contribute consistently to Open Source
-□ Keep learning something new every day
+
+[██████████] AI & Machine Learning
+
+[█████████ ] LeetCode
+
+[████████ ] Open Source
+
+[███████ ] Japanese
+
+[██████████] Astronomy
+
 ```
 
 ---
 
-# 🛰️ Featured Interests
+# 📌 Featured Projects
 
-<table>
-<tr>
-<td>🎓 VIT Chennai</td>
-<td>🤖 AI & Machine Learning</td>
-</tr>
+### 🏠 Smart Home Energy Analysis
 
-<tr>
-<td>🌱 GSSoC Contributor</td>
-<td>🧠 LeetCode</td>
-</tr>
+Machine Learning + Clustering + Data Analytics
 
-<tr>
-<td>🌌 Astronomy</td>
-<td>🇯🇵 Learning Japanese</td>
-</tr>
+---
 
-</table>
+### 🌌 Cosmonova
+
+Space-themed social platform.
+
+---
+
+### 🌱 Open Source
+
+GSSoC Contributor
 
 ---
 
@@ -123,19 +209,27 @@ goal:
 <p align="center">
 
 <a href="https://github.com/CopperFlame14">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
+
 </a>
 
 <a href="https://www.linkedin.com/in/m-r-krishni-084586320/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin">
+
 </a>
 
 <a href="https://leetcode.com/u/krishni_/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode"/>
+
+<img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode">
+
 </a>
 
 <a href="https://www.hackerrank.com/profile/krishnimr14">
-<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank"/>
+
+<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank">
+
 </a>
 
 </p>
@@ -145,18 +239,23 @@ goal:
 <div align="center">
 
 ```cpp
-while(alive)
-{
-    learn();
-    build();
-    fail();
-    improve();
-    repeat();
+
+while(alive){
+
+learn();
+
+build();
+
+fail();
+
+improve();
+
+repeat();
+
 }
+
 ```
 
-<img src="https://komarev.com/ghpvc/?username=CopperFlame14&style=flat-square&color=58A6FF"/>
-
-*"The best time to write code is when the world is asleep."*
+**"The best code is written when the world is asleep."** 🌙
 
 </div>
