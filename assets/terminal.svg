@@ -1,0 +1,136 @@
+<svg width="900" height="430" viewBox="0 0 900 430" xmlns="http://www.w3.org/2000/svg">
+
+<style>
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;600&display=swap');
+
+text{
+font-family:'JetBrains Mono',monospace;
+fill:#C9D1D9;
+font-size:21px;
+}
+
+.title{
+fill:#A371F7;
+font-size:24px;
+}
+
+.green{
+fill:#3FB950;
+}
+
+.blue{
+fill:#58A6FF;
+}
+
+.purple{
+fill:#A371F7;
+}
+
+.gray{
+fill:#8B949E;
+}
+
+.cursor{
+fill:#58A6FF;
+animation:blink 1s infinite;
+}
+
+.line{
+opacity:0;
+animation:appear .4s forwards;
+}
+
+.l1{animation-delay:.5s;}
+.l2{animation-delay:1s;}
+.l3{animation-delay:1.5s;}
+.l4{animation-delay:2s;}
+.l5{animation-delay:2.5s;}
+.l6{animation-delay:3s;}
+.l7{animation-delay:3.5s;}
+.l8{animation-delay:4s;}
+.l9{animation-delay:4.5s;}
+.l10{animation-delay:5s;}
+.l11{animation-delay:5.5s;}
+.l12{animation-delay:6s;}
+
+@keyframes appear{
+to{
+opacity:1;
+}
+}
+
+@keyframes blink{
+50%{
+opacity:0;
+}
+}
+
+.window{
+fill:#0D1117;
+stroke:#30363D;
+stroke-width:2;
+rx:14;
+}
+
+</style>
+
+<rect width="900" height="430" rx="16" fill="#0D1117"/>
+
+<rect x="10" y="10" width="880" height="410" class="window"/>
+
+<circle cx="35" cy="35" r="7" fill="#FF5F56"/>
+<circle cx="60" cy="35" r="7" fill="#FFBD2E"/>
+<circle cx="85" cy="35" r="7" fill="#27C93F"/>
+
+<text x="315" y="42" class="title">CopperFlame14 Terminal</text>
+
+<text x="30" y="85">
+<tspan class="green">krishni@CopperFlame14</tspan>
+<tspan class="blue"> ~ </tspan>
+<tspan>$ ./boot</tspan>
+</text>
+
+<text x="30" y="120" class="line l1">
+<tspan class="gray">[INFO]</tspan> Booting developer environment...
+</text>
+
+<text x="30" y="150" class="line l2">
+<tspan class="green">[OK]</tspan> Loading AI modules...
+</text>
+
+<text x="30" y="180" class="line l3">
+<tspan class="green">[OK]</tspan> Connecting to GitHub...
+</text>
+
+<text x="30" y="210" class="line l4">
+<tspan class="green">[OK]</tspan> Fetching repositories...
+</text>
+
+<text x="30" y="240" class="line l5">
+<tspan class="green">[OK]</tspan> Loading LeetCode progress...
+</text>
+
+<text x="30" y="270" class="line l6">
+<tspan class="green">[OK]</tspan> Preparing coffee ☕
+</text>
+
+<text x="30" y="300" class="line l7">
+<tspan class="green">[OK]</tspan> All systems operational.
+</text>
+
+<text x="30" y="340" class="line l8 purple">
+Welcome back, Krishni.
+</text>
+
+<text x="30" y="370" class="line l9">
+Mission: Learn • Build • Contribute • Repeat
+</text>
+
+<text x="30" y="400" class="line l10">
+<tspan class="green">krishni@CopperFlame14</tspan>
+<tspan class="blue"> ~ </tspan>
+<tspan>$</tspan>
+<tspan class="cursor">█</tspan>
+</text>
+
+</svg>
