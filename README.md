@@ -22,9 +22,6 @@ Connection Secure
 
 Welcome back, Krishni.
 
-```
-
----
 
 <p align="center">
 
@@ -32,7 +29,7 @@ Welcome back, Krishni.
 
 </p>
 
----
+```
 
 # 💻 Neofetch
 
