@@ -1,0 +1,381 @@
+<svg width="900" height="430" viewBox="0 0 900 430" xmlns="http://www.w3.org/2000/svg">
+
+<style>
+
+text{
+font-family:JetBrains Mono,monospace;
+fill:#C9D1D9;
+}
+
+.title{
+font-size:28px;
+fill:#A371F7;
+font-weight:bold;
+}
+
+.label{
+font-size:18px;
+fill:#A371F7;
+}
+
+.value{
+font-size:18px;
+fill:#E6EDF3;
+}
+
+.small{
+font-size:15px;
+fill:#8B949E;
+}
+
+.online{
+fill:#3FB950;
+}
+
+.glow{
+animation:glow 2s infinite alternate;
+}
+
+.cursor{
+animation:blink 1s infinite;
+}
+
+.scan{
+animation:scan 4s linear infinite;
+}
+
+@keyframes glow{
+
+0%{
+filter:drop-shadow(0 0 2px #A371F7);
+}
+
+100%{
+filter:drop-shadow(0 0 12px #58A6FF);
+}
+
+}
+
+@keyframes blink{
+
+50%{
+opacity:0;
+}
+
+}
+
+@keyframes scan{
+
+0%{
+transform:translateY(-220px);
+}
+
+100%{
+transform:translateY(220px);
+}
+
+}
+
+</style>
+
+<!-- Background -->
+
+<rect width="900" height="430" rx="18" fill="#0D1117"/>
+
+<rect x="8" y="8" width="884" height="414"
+rx="16"
+fill="none"
+stroke="#30363D"
+stroke-width="2"/>
+
+<!-- Header -->
+
+<text x="35" y="45" class="title glow">
+
+&gt; PROFILE.EXE
+
+</text>
+
+<!-- Avatar -->
+<!-- Avatar Frame -->
+
+<rect
+x="55"
+y="55"
+width="240"
+height="310"
+rx="10"
+fill="#0D1117"
+stroke="#A371F7"
+stroke-width="2"
+/>
+
+<!-- Background -->
+
+<defs>
+
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+
+<stop offset="0%" stop-color="#111633"/>
+
+<stop offset="100%" stop-color="#25154D"/>
+
+</linearGradient>
+
+</defs>
+
+<rect
+x="70"
+y="70"
+width="210"
+height="280"
+fill="url(#sky)"
+rx="6"
+/>
+
+<!-- Moon -->
+
+<circle
+cx="240"
+cy="110"
+r="18"
+fill="#A371F7"
+opacity=".5"
+/>
+
+<!-- Hoodie -->
+
+<path
+d="
+M180 310
+L135 245
+Q145 175 180 150
+Q215 175 225 245
+L180 310
+Z"
+fill="#12151E"
+/>
+
+<!-- Head -->
+
+<circle
+cx="180"
+cy="150"
+r="28"
+fill="#0B0C10"
+/>
+
+<!-- Hood -->
+
+<path
+d="
+M145 155
+Q180 95
+215 155
+Q220 220
+180 245
+Q140 220
+145 155
+Z"
+fill="#171A25"
+/>
+
+<!-- Shoulder -->
+
+<path
+d="
+M105 325
+Q180 250
+255 325
+Z"
+fill="#171A25"
+/>
+
+<!-- Purple Flame Logo -->
+
+<path
+d="
+M180 265
+C168 250 168 230 182 215
+C188 228 201 234 201 252
+C201 268 191 280 180 288
+C170 281 159 270 159 254
+C159 241 166 232 173 224
+C172 238 177 246 180 250
+"
+fill="#8B5CF6"
+filter="url(#glow)"
+/>
+
+<!-- Glow -->
+
+<defs>
+
+<filter id="glow">
+
+<feGaussianBlur stdDeviation="4" result="coloredBlur"/>
+
+<feMerge>
+
+<feMergeNode in="coloredBlur"/>
+
+<feMergeNode in="SourceGraphic"/>
+
+</feMerge>
+
+</filter>
+
+</defs>
+
+<!-- Scan Line -->
+
+<rect
+x="70"
+y="70"
+width="210"
+height="2"
+fill="#58A6FF"
+opacity=".6">
+
+<animate
+attributeName="y"
+values="70;348;70"
+dur="5s"
+repeatCount="indefinite"/>
+
+</rect>
+
+<!-- Scan -->
+
+<rect
+x="82"
+y="110"
+width="196"
+height="2"
+fill="#58A6FF"
+opacity=".6">
+
+<animate
+attributeName="y"
+values="110;310;110"
+dur="4s"
+repeatCount="indefinite"/>
+
+</rect>
+
+<!-- Information -->
+
+<text x="340" y="90" class="label">NAME</text>
+
+<text x="520" y="90" class="value">
+
+M. R. Krishni
+
+</text>
+
+<text x="340" y="125" class="label">ROLE</text>
+
+<text x="520" y="125" class="value">
+
+Computer Science Student
+
+</text>
+
+<text x="340" y="160" class="label">UNIVERSITY</text>
+
+<text x="520" y="160" class="value">
+
+VIT Chennai
+
+</text>
+
+<text x="340" y="195" class="label">FOCUS</text>
+
+<text x="520" y="195" class="value">
+
+AI • Machine Learning
+
+</text>
+
+<text x="340" y="230" class="label">OPEN SOURCE</text>
+
+<text x="520" y="230" class="value">
+
+GSSoC Contributor
+
+</text>
+
+<text x="340" y="265" class="label">LANGUAGES</text>
+
+<text x="520" y="265" class="value">
+
+Java • Python • C • SQL
+
+</text>
+
+<text x="340" y="300" class="label">INTERESTS</text>
+
+<text x="520" y="300" class="value">
+
+Astronomy • Japanese
+
+</text>
+
+<text x="340" y="335" class="label">STATUS</text>
+
+<circle
+cx="525"
+cy="329"
+r="6"
+class="online">
+
+<animate
+attributeName="opacity"
+values="1;.3;1"
+dur="2s"
+repeatCount="indefinite"/>
+
+</circle>
+
+<text x="540" y="335" class="value">
+
+ONLINE
+
+</text>
+
+<!-- Footer -->
+
+<line
+x1="35"
+y1="375"
+x2="865"
+y2="375"
+stroke="#30363D"
+/>
+
+<text
+x="35"
+y="405"
+class="small">
+
+"The universe inspires my curiosity.
+Code turns it into reality."
+
+</text>
+
+<text
+x="810"
+y="405"
+class="value">
+
+█
+
+<animate
+attributeName="opacity"
+values="1;0;1"
+dur="1s"
+repeatCount="indefinite"/>
+
+</text>
+
+</svg>
