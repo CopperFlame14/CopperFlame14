@@ -4,7 +4,13 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=25&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=850&lines=Booting+CopperFlame14...;Welcome+back%2C+Krishni.;AI+%7C+Machine+Learning.;Open+Source+Contributor.;Building+the+future+one+commit+at+a+time." alt="Typing introduction"/>
+<div align="center">
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=25&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=850&lines=Booting+CopperFlame14;Welcome+back%2C+Krishni;AI+%2F+Machine+Learning;Open+Source+Contributor;Building+the+future+one+commit+at+a+time" alt="Typing introduction"/>
+</a>
+
+</div>
 
 <br/>
 
@@ -13,7 +19,13 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-1a1b27?style=for-the-badge&logo=leetcode&logoColor=e0af68)](https://leetcode.com/u/krishni_/)
 [![HackerRank](https://img.shields.io/badge/HackerRank-Profile-1a1b27?style=for-the-badge&logo=hackerrank&logoColor=9ece6a)](https://www.hackerrank.com/profile/krishnimr14)
 
-![Profile Views](https://komarev.com/ghpvc/?username=CopperFlame14&style=flat-square&color=7aa2f7&label=PROFILE+VIEWS)
+<div align="center">
+
+<a href="https://hits.sh/github.com/CopperFlame14/CopperFlame14/">
+  <img src="https://hits.sh/github.com/CopperFlame14/CopperFlame14.svg?style=for-the-badge&label=PROFILE+VIEWS&color=7aa2f7" alt="Profile Views"/>
+</a>
+
+</div>
 
 </div>
 
