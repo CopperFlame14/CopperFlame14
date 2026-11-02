@@ -435,7 +435,7 @@ I also contribute to collaborative open-source projects, working on features, al
 
 <div align="center">
 
-<img src="./github-metrics.svg" width="100%" alt="GitHub Metrics"/>
+<img src="./github-metrics.svg" width="50%" alt="GitHub Metrics"/>
 
 </div>
 
